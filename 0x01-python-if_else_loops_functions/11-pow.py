@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Author - SAM
+# Author - SAM
 
-def pow(a b):
+def pow(a, b):
     return (a ** b)
